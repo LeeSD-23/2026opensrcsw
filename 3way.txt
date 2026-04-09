@@ -1,8 +1,0 @@
-3way file
-
-<<<<<<< HEAD
-
-Hello! nice to meet you
-=======
-new file upload
->>>>>>> 3way
